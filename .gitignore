@@ -1,0 +1,19 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore models and outputs
+models/
+outputs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+.DS_Store
+.env
+.vscode
